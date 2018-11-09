@@ -1,0 +1,13 @@
+#obejct files
+.o
+
+#libraries
+.lib
+.dll
+.so
+.a
+
+#executables
+.exe
+.bin
+a.out
